@@ -1,0 +1,4 @@
+/home/rj4/build-untitledexmp-Qt6-Release/CMakeFiles/untitledexmp.dir
+/home/rj4/build-untitledexmp-Qt6-Release/CMakeFiles/edit_cache.dir
+/home/rj4/build-untitledexmp-Qt6-Release/CMakeFiles/rebuild_cache.dir
+/home/rj4/build-untitledexmp-Qt6-Release/CMakeFiles/untitledexmp_autogen.dir
